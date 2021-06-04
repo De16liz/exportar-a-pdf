@@ -1,0 +1,10 @@
+
+codigo para la exportacion
+
+
+//https://programacion.net/articulo/como_crear_archivos_pdf_con_php_1886
+
+
+
+pagina para descargar el comprimido para exportar en PDF
+http://www.fpdf.org/
